@@ -27,3 +27,4 @@ function removeElementFromBeginningOfArray(array) {
   lessArray = array.slice(1)
   return lessArray
 }
+function 
